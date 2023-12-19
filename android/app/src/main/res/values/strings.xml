@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="terminal_not_configured">Terminal not configured</string>
+    <string name="terminal_config_failed">Terminal Configuration Failed</string>
+    <string name="terminal_configured">Terminal Configured Successfully</string>
+    <string name="configuring_terminal">Configuring Terminal</string>
+</resources>
