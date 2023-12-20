@@ -21,9 +21,9 @@ These dependencies are responsible for enabling contactless card reading and int
 
 Prerequisites
 An NFC-enabled device is required to run the app.
+
 Minimum SDK version: 23
 Target SDK version: 33
-Kotlin KAPT: id 'kotlin-kapt'
 
 Setup Instructions
 Activity Theme Override: Due to a Theme.AppCompat bug triggered by an activity in the SDK, the theme of the activity must be overridden in the AndroidManifest.xml:
